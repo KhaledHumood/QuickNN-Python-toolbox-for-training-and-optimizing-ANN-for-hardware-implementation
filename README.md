@@ -8,6 +8,7 @@ The top file is: **NN_Main.py**, you can characetrize and optimize the NN struct
 The activation function can be modified from **NN_activation_function.py**
 
 Citation: 
+
 **Text**: K. Humood, A. Serb, S. Wang and T. Prodromakis, "QuickNN: Python Toolbox for Training and Optimizing ANN for Hardware Implementation," 2023 IEEE 66th International Midwest Symposium on Circuits and Systems (MWSCAS), Tempe, AZ, USA, 2023, pp. 531-535, doi: 10.1109/MWSCAS57524.2023.10405963.
 
 **BibTex:** @INPROCEEDINGS{Humood2023,
